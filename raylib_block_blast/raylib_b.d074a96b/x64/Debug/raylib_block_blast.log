@@ -1,0 +1,14 @@
+﻿  blockblast.cpp
+C:\Users\honor\Desktop\raylib_block_blast\blockblast.cpp(334,38): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\honor\Desktop\raylib_block_blast\blockblast.cpp(335,43): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\honor\Desktop\raylib_block_blast\blockblast.cpp(436,45): warning C4838: 'int ile 'float arasında dönüştürme bir daraltma dönüştürmesi gerektiriyor
+C:\Users\honor\Desktop\raylib_block_blast\blockblast.cpp(436,45): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\honor\Desktop\raylib_block_blast\blockblast.cpp(436,53): warning C4838: 'int ile 'float arasında dönüştürme bir daraltma dönüştürmesi gerektiriyor
+C:\Users\honor\Desktop\raylib_block_blast\blockblast.cpp(436,53): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\honor\Desktop\raylib_block_blast\blockblast.cpp(436,61): warning C4838: 'int ile 'float arasında dönüştürme bir daraltma dönüştürmesi gerektiriyor
+C:\Users\honor\Desktop\raylib_block_blast\blockblast.cpp(436,61): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\honor\Desktop\raylib_block_blast\blockblast.cpp(436,73): warning C4838: 'int ile 'float arasında dönüştürme bir daraltma dönüştürmesi gerektiriyor
+C:\Users\honor\Desktop\raylib_block_blast\blockblast.cpp(436,73): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  raylib_block_blast.vcxproj -> C:\Users\honor\Desktop\raylib_block_blast\x64\Debug\raylib_block_blast.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

@@ -1,0 +1,3 @@
+C:\Users\honor\Desktop\raylib_block_blast\x64\Debug\raylib.dll
+C:\Users\honor\Desktop\raylib_block_blast\x64\Debug\glfw3.dll
+C:\Users\honor\Desktop\raylib_block_blast\raylib_b.d074a96b\x64\Debug\raylib_b.9FE8820A.Up2Date
